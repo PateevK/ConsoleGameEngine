@@ -1,6 +1,6 @@
 A Minimalist 2D Game Engine Rendered Entirely in the Console (C++)
 
-This project is a custom-built 2D game engine that renders graphics directly in the console using character-based output. <br>
+This project is a custom-built 2D game engine that renders graphics directly in the console using character-based output.
 It supports pixel-accurate rendering with extended Unicode characters and full color support. <br>
 Originally intended to be a "TANK 1990"-style game, the project gradually evolved into a general-purpose console game engine developed for educational purposes.<br>
 I plan to add Ethernet-based multiplayer support in the future.<br><br>
