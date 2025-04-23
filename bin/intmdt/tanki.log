@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(516,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (D:\projects\VSstudio\GitHub\ConsoleGameEngine\\bin\intmdt\) contains files shared from another project (tanki.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+D:\projects\VSstudio\GitHub\ConsoleGameEngine\tanki\source\Logger.h(8,9): warning C4005: 'ERROR': macro redefinition
+  (compiling source file 'source/main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(118,9):
+      see previous definition of 'ERROR'
+  
+  tanki.vcxproj -> D:\projects\VSstudio\GitHub\ConsoleGameEngine\bin\Debug\x86\ConsoleGameEngine.exe
