@@ -1,4 +1,5 @@
 A Minimalist 2D Game Engine Rendered Entirely in the Console (C++)
+The application must be run with administrative privileges; otherwise, the console output may not function correctly.
 
 This project is a custom-built 2D game engine that renders graphics directly in the console using character-based output.
 It supports pixel-accurate rendering with extended Unicode characters and full color support. <br>
